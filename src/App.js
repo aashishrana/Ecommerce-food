@@ -1,4 +1,4 @@
-import Headers from './components/Headers';
+import Headers from './components/Headers';  /// Importing headers
 import Home from './components/Home';
 import CartDetails from './components/CartDetails';
 import './App.css';
